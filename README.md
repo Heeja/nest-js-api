@@ -10,3 +10,9 @@
 
 Typescript
 NestJS
+
+- mapped-types: 부분 타입(PartialType)을 위해 사용. DTO를 변환시키는 것을 돕는다.
+
+validation pipe
+
+- class Validator
