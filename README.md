@@ -22,3 +22,6 @@ NestJS
   - class Validator(Library):
 
 Jest: 테스팅 프레임워크.
+
+- Unit Test
+- E2E(end to end) Test
