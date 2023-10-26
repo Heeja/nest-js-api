@@ -20,3 +20,5 @@ NestJS
 
   - class transformer(Library): typescript
   - class Validator(Library):
+
+Jest: 테스팅 프레임워크.
